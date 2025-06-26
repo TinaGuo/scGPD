@@ -9,4 +9,4 @@ pip install -e .
 ```
 # Tutorials
 
-Please use the file **Tutorial_marker_selection.ipynb** as a tutorial for running our algorithm. The demo dataset can be found in [this folder]([https://drive.google.com/drive/folders/1kEK6MPGejnpXMIthULP66ytE4teLgKx9?usp=drive_link](https://drive.google.com/drive/folders/1yA-ccARb4CuMdN-EtGUyW8esp4I4Orsu)).
+Please use the file **tutorial.ipynb** as a tutorial for running our method. The demo dataset can be found in [this folder]([https://drive.google.com/drive/folders/1kEK6MPGejnpXMIthULP66ytE4teLgKx9?usp=drive_link](https://drive.google.com/drive/folders/1yA-ccARb4CuMdN-EtGUyW8esp4I4Orsu)).
