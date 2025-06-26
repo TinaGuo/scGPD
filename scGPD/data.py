@@ -5,6 +5,8 @@ from torch.utils.data import Dataset
 from sklearn.model_selection import train_test_split
 from scipy.sparse import issparse
 
+# Modified from PERSIST:
+# Covert, Ian, et al. "Predictive and robust gene selection for spatial transcriptomics." Nature Communications 14.1 (2023): 2091.
 
 class ExpressionDataset(Dataset):
 
