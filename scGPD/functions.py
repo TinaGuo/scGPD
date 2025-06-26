@@ -7,6 +7,8 @@ from copy import deepcopy
 from tqdm.auto import tqdm
 from torch.utils.data import DataLoader
 
+# Modified from PERSIST:
+# Covert, Ian, et al. "Predictive and robust gene selection for spatial transcriptomics." Nature Communications 14.1 (2023): 2091.
 
 def clamp_probs(probs):
     '''Clamp probabilities to ensure stable logs.'''
