@@ -3,6 +3,8 @@ import numpy as np
 import torch.nn as nn
 from scGPD import functions, utils
 
+# Modified from PERSIST:
+# Covert, Ian, et al. "Predictive and robust gene selection for spatial transcriptomics." Nature Communications 14.1 (2023): 2091.
 
 class scGPD:
 
