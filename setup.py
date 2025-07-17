@@ -19,8 +19,6 @@ setuptools.setup(
     version='0.0.1',
     author='Tina Guo',
     description='scGPD: single-cell informed Gene Panel Desig',
-    long_description=long_description,
-    long_description_content_type='text/markdown',
     url='https://github.com/TinaGuo/scGPD',
     packages=['scGPD'],
     install_requires=requirements,
@@ -33,3 +31,4 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
 )
+
