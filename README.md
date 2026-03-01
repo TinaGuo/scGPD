@@ -44,10 +44,6 @@ The notebook contains detailed explanations of the entire scGPD workflow, includ
 
 Each step is clearly documented with explanatory comments to help users understand both the implementation details and the methodological rationale.
 
----
-
-### 📂 Demo Dataset
-
 The dataset used in the tutorial can be downloaded from [this folder](https://drive.google.com/drive/folders/1yA-ccARb4CuMdN-EtGUyW8esp4I4Orsu?usp=drive_link).
 
 After downloading, please follow the directory structure described in the notebook.
