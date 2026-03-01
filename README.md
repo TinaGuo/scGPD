@@ -54,6 +54,16 @@ All experiment scripts used to generate the results reported in the manuscript a
 
 Each script corresponds to a specific dataset analyzed in the paper. All datasets used in the manuscript are publicly available. We also provide direct download links in each script. All quantitative results in the manuscript can be reproduced by running the corresponding experiment scripts. 
 
+In our experiments, the gene–gene covariance matrix is estimated using **CS-CORE** (Su et al., 2023).
+
+Tutorial and implementation of CS-CORE:
+https://github.com/ChangSuBiostats/CS-CORE
+
+Please note that **scGPD does not depend on a specific covariance estimator**.  
+CS-CORE is used in our experiments due to its robustness for single-cell RNA-seq data; however, any reasonable gene–gene covariance or correlation estimator can be used in place of CS-CORE.
+
+Users may substitute alternative covariance estimation methods depending on their data characteristics or research preferences.
+
 
 
 
