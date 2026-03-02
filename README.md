@@ -50,7 +50,7 @@ After downloading, please follow the directory structure described in the notebo
 
 # Experiments & Reproducibility
 
-All experiment scripts used to generate the results reported in the manuscript are provided in the `experiments_code` folder.
+All experiment scripts used to generate the results reported in the manuscript are provided in the `experiments code` directory.
 
 Each script corresponds to a specific dataset analyzed in the paper. All datasets used in the manuscript are publicly available. We also provide direct download links in each script. All quantitative results in the manuscript can be reproduced by running the corresponding experiment scripts. 
 
